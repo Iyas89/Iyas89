@@ -13,6 +13,13 @@
 
 - 📫 How to reach me **iyasasaad@gmail.com**
 
+<h1>¿Who am I?<h1>
+
+  <h3>I am a Full Stack Developer, passionate about programming, with a focus on Back-End. My skills encompass the creation of complete web projects, from the server to the database, always considering scalability and efficiency.
+
+Currently, my next goal is to learn Python to expand my skills and explore new possibilities in the world of programming.
+<h3> 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/iyas asaad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iyas asaad" height="30" width="40" /></a>
